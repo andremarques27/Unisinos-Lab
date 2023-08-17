@@ -8,6 +8,6 @@ grauA = (praticaA * 0.45) + (teoricaA * 0.55)
 grauB = (laboratorioB * 0.6) + (teoricaB * 0.2) + (extraclasse * 0.2)
 notaFinal = (grauA * 0.33) + (grauB * 0.67)
 
-print(" Nota final do Grau A: ", grauA, "\n",
-        "Nota final do Grau B:", grauB, "\n",
+print(" Nota final do Grau A: ", grauA, "\n"
+        "Nota final do Grau B:", grauB, "\n"
             "Nota final:", notaFinal)

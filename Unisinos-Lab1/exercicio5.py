@@ -7,5 +7,5 @@ numero5 = int(input("Digite o qeuinto número: "))
 soma = numero1 + numero2 + numero3 + numero4 + numero5
 multiplica = numero1 * numero2 * numero3 * numero4 * numero5
 
-print(" Números somados:", soma, "\n",
+print(" Números somados:", soma, "\n"
      "Números multiplicados:", multiplica)
